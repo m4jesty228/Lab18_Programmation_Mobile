@@ -263,3 +263,11 @@ Ce laboratoire m'a permis de comprendre et maîtriser le cœur de l'architecture
 - **Avec ViewModel + LiveData** : données persistantes, UI réactive, code propre, zéro memory leak, conforme aux standards Google 2026
 
 C'est exactement le pattern **MVVM** qu'utilisent toutes les apps professionnelles Android. Ce lab constitue la base pour tout projet Jetpack (Room, Navigation, DataBinding, etc.).
+
+---
+
+## 👤 Auteur
+
+**DOSSAH Landry**  
+ENSA Marrakech | GCDSTE S4  
+Module : Programmation Mobile Android — Java
